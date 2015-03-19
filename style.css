@@ -1,0 +1,130 @@
+@font-face {
+    font-family: "menu";
+    src: url("BebasNeue.otf") format("opentype");
+}
+@font-face {
+    font-family: "banner";
+    src: url("Futura-(Light).ttf") format("truetype");
+}
+@font-face {
+    font-family: "content";
+    src: url("Cantarell-Regular.ttf") format("truetype");
+}
+
+html {
+    background-color: #f3f2ec;
+    color: #0c0a19;
+    min-width: 850px;
+}
+
+.container {
+    /*text-align: center;*/
+    margin-left: auto;
+    margin-right: auto;
+    width: 520px;
+    position: relative;
+}
+
+.banner {
+    font-family: "banner";
+    font-size: 400%;
+    height: 150px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.content {
+    font-family: sans-serif;
+    line-height: 150%;
+    width: 500px;
+    padding: 10px;
+    /*background-color: lightblue;*/
+}
+.content h1 {
+    font-family: "banner";
+    padding-top: 0;
+    margin-top: 0;
+}
+.week1 {
+    color: #eb5252;
+}
+
+.menu {
+    position: absolute;
+    left: -140px;
+    width: 140px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li a {
+    display: block;
+    width: 100px;
+    height: 20px;
+    line-height: 25px;
+    padding: 20px;
+    color: #090415;
+    text-decoration: none;
+    font-size: 200%;
+    font-family: "menu";
+}
+
+.menu li a:hover {
+    color: #f3f2ec;
+}
+
+/* ##### WEEK 1 ##### */
+.menu-item1 {
+    background-color: #eb5252;
+}
+.menu-item1:hover {
+    background-color: #be4b4b;
+}
+.menu-item1:active {
+    background-color: #842a2a;
+}
+
+/* ##### WEEK 2 ##### */
+.menu-item2 {
+    background-color: #edd550;
+}
+.menu-item2:hover {
+    background-color: #e7ba32;
+}
+.menu-item2:active {
+    background-color: #d5992a;
+}
+
+/* ##### WEEK 3 ##### */
+.menu-item3 {
+    background-color: #a8d841;
+}
+.menu-item3:hover {
+    background-color: #70991a;
+}
+.menu-item3:active {
+    background-color: #83991a;
+}
+
+/* ##### WEEK 4 ##### */
+.menu-item4 {
+    background-color: #21c0b8;
+}
+.menu-item4:hover {
+    background-color: #21b0c0;
+}
+.menu-item4:active {
+    background-color: #18808c;
+}
+
+/* ##### WEEK 5 ##### */
+.menu-item5 {
+    background-color: #4a4cbf;
+}
+.menu-item5:hover {
+    background-color: #4647a0;
+}
+.menu-item5:active {
+    background-color: #393375;
+}
