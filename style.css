@@ -125,73 +125,182 @@ a {
 
 /* ##### WEEK 2 ##### */
 .menu-item2 {
-    background-color: #edd550;
+    background-color: #FF863E;
 }
 .menu-item2:hover {
-    background-color: #e7ba32;
+    background-color: #D05616;
 }
 .menu-item2:active {
-    background-color: #d5992a;
+    background-color: #CB4600;
 }
 .para-week2 {
     padding-left: 20px;
-    border-left: 10px solid #edd550;
+    border-left: 10px solid #FF863E;
 }
 .week2 {
+    color: #FF863E;
+}
+
+/* ##### WEEK 3 ##### */
+.menu-item3 {
+    background-color: #edd550;
+}
+.menu-item3:hover {
+    background-color: #e7ba32;
+}
+.menu-item3:active {
+    background-color: #d5992a;
+}
+.para-week3 {
+    padding-left: 20px;
+    border-left: 10px solid #edd550;
+}
+.week3 {
     color: #edd550;
 }
 
 
-/* ##### WEEK 3 ##### */
-.menu-item3 {
-    background-color: #a8d841;
-}
-.menu-item3:hover {
-    background-color: #70991a;
-}
-.menu-item3:active {
-    background-color: #83991a;
-}
-.para-week3 {
-    padding-left: 20px;
-    border-left: 10px solid #a8d841;
-}
-.week3 {
-    color: #a8d841;
-}
-
 /* ##### WEEK 4 ##### */
 .menu-item4 {
-    background-color: #21c0b8;
+    background-color: #a8d841;
 }
 .menu-item4:hover {
-    background-color: #21b0c0;
+    background-color: #70991a;
 }
 .menu-item4:active {
-    background-color: #18808c;
+    background-color: #83991a;
 }
 .para-week4 {
     padding-left: 20px;
-    border-left: 10px solid #21c0b8;
+    border-left: 10px solid #a8d841;
 }
 .week4 {
-    color: #21c0b8;
+    color: #a8d841;
 }
+
 
 /* ##### WEEK 5 ##### */
 .menu-item5 {
-    background-color: #419AF3;
+    background-color: #25CC78;
 }
 .menu-item5:hover {
-    background-color: #4647a0;
+    background-color: #12B564;
 }
 .menu-item5:active {
-    background-color: #393375;
+    background-color: #0E8C4D;
 }
 .para-week5 {
     padding-left: 20px;
-    border-left: 10px solid #419AF3;
+    border-left: 10px solid #25CC78;
 }
 .week5 {
+    color: #25CC78;
+}
+
+/* ##### WEEK 6 ##### */
+.menu-item6 {
+    background-color: #21c0b8;
+}
+.menu-item6:hover {
+    background-color: #21b0c0;
+}
+.menu-item6:active {
+    background-color: #18808c;
+}
+.para-week6 {
+    padding-left: 20px;
+    border-left: 10px solid #21c0b8;
+}
+.week6 {
+    color: #21c0b8;
+}
+
+/* ##### WEEK 7 ##### */
+.menu-item7 {
+    background-color: #419AF3;
+}
+.menu-item7:hover {
+    background-color: #4647a0;
+}
+.menu-item7:active {
+    background-color: #393375;
+}
+.para-week7 {
+    padding-left: 20px;
+    border-left: 10px solid #419AF3;
+}
+.week7 {
     color: #419AF3;
+}
+
+/* ##### WEEK 9 ##### */
+.menu-item9 {
+    background-color: #1B76FF;
+}
+.menu-item9:hover {
+    background-color: #1456B8;
+}
+.menu-item9:active {
+    background-color: #2D5DA6;
+}
+.para-week9 {
+    padding-left: 20px;
+    border-left: 10px solid #1B76FF;
+}
+.week9 {
+    color: #1B76FF;
+}
+
+/* ##### WEEK 10 ##### */
+.menu-item10 {
+    background-color: #6666FF;
+}
+.menu-item10:hover {
+    background-color: #5252CC;
+}
+.menu-item10:active {
+    background-color: #40409F;
+}
+.para-week10 {
+    padding-left: 20px;
+    border-left: 10px solid #6666FF;
+}
+.week10 {
+    color: #6666FF;
+}
+
+/* ##### WEEK 11 ##### */
+.menu-item11 {
+    background-color: #CC66FF;
+}
+.menu-item11:hover {
+    background-color: #9F40CF;
+}
+.menu-item11:active {
+    background-color: #712D93;
+}
+.para-week11 {
+    padding-left: 20px;
+    border-left: 10px solid #CC66FF;
+}
+.week11 {
+    color: #CC66FF;
+}
+
+/* ##### WEEK 12 ##### */
+.menu-item12 {
+    background-color: #FF66CC;
+}
+.menu-item12:hover {
+    background-color: #C0248C;
+}
+.menu-item12:active {
+    background-color: #953A97;
+}
+.para-week12 {
+    padding-left: 20px;
+    border-left: 10px solid #FF66CC;
+}
+.week12 {
+    color: #FF66CC;
 }
